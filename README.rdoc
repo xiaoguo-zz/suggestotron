@@ -1,4 +1,6 @@
 Usage:
 
 run rails server
+
+
 open http://localhost:3000/topics in browser
